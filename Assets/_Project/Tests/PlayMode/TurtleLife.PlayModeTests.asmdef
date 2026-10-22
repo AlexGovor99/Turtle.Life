@@ -1,0 +1,5 @@
+{
+  "name": "TurtleLife.PlayModeTests",
+  "references": ["TurtleLife.Characters", "Unity.InputSystem"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

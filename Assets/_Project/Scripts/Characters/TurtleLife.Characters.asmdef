@@ -1,0 +1,5 @@
+{
+  "name": "TurtleLife.Characters",
+  "rootNamespace": "TurtleLife.Characters",
+  "references": ["Unity.InputSystem"]
+}

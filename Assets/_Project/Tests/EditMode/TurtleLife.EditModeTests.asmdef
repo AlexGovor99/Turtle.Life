@@ -1,0 +1,6 @@
+{
+  "name": "TurtleLife.EditModeTests",
+  "references": ["TurtleLife.Editor", "TurtleLife.Characters"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

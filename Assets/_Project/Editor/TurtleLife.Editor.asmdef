@@ -1,0 +1,5 @@
+{
+  "name": "TurtleLife.Editor",
+  "references": ["TurtleLife.Characters", "Unity.InputSystem", "UnityEditor.TestRunner", "UnityEngine.TestRunner"],
+  "includePlatforms": ["Editor"]
+}
