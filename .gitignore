@@ -1,0 +1,41 @@
+# IDE settings
+.idea/
+.vs/
+*.suo
+*.user
+*.sln.iml
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+*.csproj
+*.sln
+*.slnx
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+*.unitypackage
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
